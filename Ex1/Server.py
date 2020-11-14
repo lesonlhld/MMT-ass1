@@ -1,4 +1,4 @@
- import sys, socket
+import sys, socket
 
 from ServerWorker import ServerWorker
 
